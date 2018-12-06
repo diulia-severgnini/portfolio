@@ -1,2 +1,2 @@
 # portfolio
-<p color="red">Repository for my portfolio</p>
+Repository for my portfolio.
